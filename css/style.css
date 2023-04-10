@@ -13,8 +13,13 @@ body {
     max-width: 900px;
 }
 
+a {
+    color: hsl(50, 100%, 50%);
+}
+
 h1 {
     margin: 25px;
+    text-transform: uppercase;
 }
 
 p {
